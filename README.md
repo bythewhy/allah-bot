@@ -1,2 +1,2 @@
 # allah-bot
-AllahBot - Discord bot with fun teams and moderation teams for 'Kanto Squad'
+AllahBot - Discord bot with fun and moderation functions for 'Kanto Squad'
